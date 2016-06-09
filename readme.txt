@@ -16,6 +16,10 @@ git remote add origin https://github.com/oliver6653/testgit.git
 
 777777777
 
-8888888bg
+<<<<<<< HEAD
+
+=======
+8888888gg
+>>>>>>> 6b2b2e81ab489711ef7bc57edce485cdb76a0c38
 
 bug404
