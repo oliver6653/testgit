@@ -12,8 +12,3 @@
          });  
 		 
 		 
-		 F:\androidstudio\AndroidStudioProjects\demo\CircleDemo-master\CircleDemo\app\src\main\java\com\yiw\circledemo
-		 
-		 
-		 
-		 kkkkkkkkkkkkkkkkk
